@@ -1,0 +1,7 @@
+public class Main {
+    public static void main(String[] args) {
+        System.out.println("Hello from Git practice!");
+        System.out.println("Learning Git step by step");
+    }
+}
+
